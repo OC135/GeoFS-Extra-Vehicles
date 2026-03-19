@@ -270,7 +270,7 @@
                 <li class="geofs-list-collapsible-item">
                     Aircraft
                     <ul class="geofs-collapsible">
-                        <li data-url="https://raw.githubusercontent.com/OC135/test6/refs/heads/main/G550project/ver1aircraft.json" data-mpid="1023">Gulfstream G550 (AIS1697)</li>
+                        <li data-url="https://raw.githubusercontent.com/OC135/test6/refs/heads/main/G550project/ver1aircraft.json" data-mpid="">Gulfstream G550 (AIS1697)</li>
                         <li data-url="https://www.geo-fs.com/backend/aircraft/repository/c25a_380019_5367/" data-mpid="1021">Cessna Citation CJ2 (ADSB)</li>
                         <li data-url="https://www.geo-fs.com/backend/aircraft/repository/heli_380019_5371/" data-mpid="1025">Eurocopter AS365 Dauphin (ADSB)</li>
                         <li data-url="https://www.geo-fs.com/backend/aircraft/repository/e190_380019_5372/" data-mpid="1018">Embraer E190 (ADSB)</li>

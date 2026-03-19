@@ -2,7 +2,7 @@
   "Aircraft": [
     {
       "name": "McDonnell Douglas MD-11",
-      "author": "ADSB",
+      "author": "AIS1697",
       "url": "https://raw.githubusercontent.com/OC135/test6/refs/heads/main/G550project/ver1aircraft.json",
       "id": 1023,
       "mp": "green",
